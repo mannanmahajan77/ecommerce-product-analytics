@@ -41,13 +41,16 @@ In every large cohort, revenue retention runs above customer retention. Around 3
 **4. The monthly reporting window is wrong for this business.**
 
 Month 1 retention is *lower* than months 2, 3 and 4 in almost every cohort. Only 31% of returning customers come back inside 30 days, and 27% take longer than 90. These are wholesale buyers restocking every couple of months, so a monthly window marks them churned while they are behaving normally. Churn here should be defined at 90 days.
+
 ![Cohort retention](cohort_retention.png)
 
 
 **5. April 2011 looked like a 22% collapse and was not one.**
 
 Orders fell 13%, basket size held flat, price per unit fell 7%. By country, the UK carried only 46% of the loss despite being 92% of the business, while the export markets stopped rather than softened. Two accounts explain £35,168 of the £127,624 gap, and both ordered normally again in May. Two wholesale customers happened to skip the same month.
+
 ![Monthly revenue and AOV](monthly_trend.png)
+
 ---
 
 ## Recommendation
